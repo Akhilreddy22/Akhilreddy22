@@ -52,6 +52,19 @@ Currently at **Walmart Global Tech**, expanding marketplace fulfillment across N
 
 ---
 
+---
+
+## 🏆 Certifications & Digital Badges
+
+Verified digital credentials issued via **[Credly Profile](https://www.credly.com/users/akhil-kumar-cheekolu/badges)**:
+
+| Badge | Certification & Focus Area | Issuer | Verification |
+| :---: | :--- | :---: | :---: |
+| <a href="https://www.credly.com/badges/66165f9b-9cfc-4f39-bbc3-9a555955db09"><img src="https://images.credly.com/images/2aff887d-ee1e-479f-b26f-dcb20d647bd6/blob" width="85" alt="Building RAG Apps Using MongoDB" /></a> | **Building RAG Apps Using MongoDB**<br>Retrieval-Augmented Generation (RAG) architectures, vector search, semantic embeddings, and LLM context retrieval. | **MongoDB** | [Verify Credly ↗](https://www.credly.com/badges/66165f9b-9cfc-4f39-bbc3-9a555955db09) |
+| <a href="https://www.credly.com/badges/e9c491ea-c9ce-455b-9108-2c390152d55f"><img src="https://images.credly.com/images/d8f7a9d6-dad9-40cc-b389-a343d2d72a9e/blob" width="85" alt="CRUD Operations in MongoDB" /></a> | **CRUD Operations in MongoDB**<br>Document schema design, high-volume CRUD queries, aggregation pipelines, and transactional data guarantees. | **MongoDB** | [Verify Credly ↗](https://www.credly.com/badges/e9c491ea-c9ce-455b-9108-2c390152d55f) |
+| <a href="https://www.credly.com/badges/a6b93023-b088-455f-a4b2-d3163318d979"><img src="https://images.credly.com/images/27213be6-415d-411f-a69a-0171ca2c89f5/blob" width="85" alt="MongoDB Indexing Design Fundamentals" /></a> | **MongoDB Indexing Design Fundamentals**<br>Compound indexing strategies, query execution plan optimization, memory usage, and latency minimization. | **MongoDB** | [Verify Credly ↗](https://www.credly.com/badges/a6b93023-b088-455f-a4b2-d3163318d979) |
+| <a href="https://www.credly.com/badges/957d906c-4aae-4df2-bdbb-75a7b41427cc"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="85" alt="Microsoft Certified: Azure Fundamentals" /></a> | **Microsoft Certified: Azure Fundamentals (AZ-900)**<br>Cloud computing architectures, Azure core networking, high-availability storage governance, and identity security. | **Microsoft Azure** | [Verify Credly ↗](https://www.credly.com/badges/957d906c-4aae-4df2-bdbb-75a7b41427cc) |
+
 ## 🎓 Education
 
 - **Master of Science in Computer Science** — Wichita State University *(01/2022 – 08/2023)*
